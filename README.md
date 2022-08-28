@@ -1,2 +1,2 @@
 # Bioinformatics Competence Assessment
-#1.	Parsing
+1.	Parsing
