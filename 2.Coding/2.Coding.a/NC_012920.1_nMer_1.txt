@@ -1,0 +1,6 @@
+#OfTimesFound	nMer
+5124	A
+5181	C
+4094	T
+2169	G
+1	N
