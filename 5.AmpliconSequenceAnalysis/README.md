@@ -25,16 +25,27 @@ Inverse simpson: 5.403007
 Files descriptions:
 
 PipeLine.sh: Convert fastq to fasta, blast and filter for top hits
+
 blast.R: Rscript to for blast results
+
 dada2.R: Please see comment below
+
 err2.png: dada2 protocol figure
+
 *metagenomicsFastQC.png: dada2 protocol fastqc reports
+
 metagenomics.fasta: fasta file for blast (from metagenomics.fastq)
+
 Metagenomics.*.TopHits.txt: metagenomics.fasta top hits used as input for blast.R
+
 rarecurve.*.otu.png: rarefaction curves for both the mito and nt database results
+
 st.rds: dada2 protocol object. Sequence table
+
 st2.txt: dada2 ASV sequence table
+
 st2.fasta: dada2 ASV fasta file
+
 asv2fasta.py: Convert asv text file to fasta
 
 Comment
