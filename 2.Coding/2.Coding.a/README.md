@@ -11,12 +11,16 @@ Results for n-mer sizes 1-5 are included here.
 Examples
 
 python nMer.py
+
 Please enter the name/path of your file: NC_012920.1.fasta
+
 Please enter a nMer length/size: 1
+
 #OfTimesFound	nMer
 5124 	A
 5181 	C
 4094 	T
 2169 	G
 1 	N
+
 The results have also been written to: NC_012920.1_nMer_1.txt
