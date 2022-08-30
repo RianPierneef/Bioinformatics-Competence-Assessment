@@ -1,0 +1,9 @@
+4	gi|1919570019|ref|NC_050882.1|	83.433	670	105	6	28	694	103851	103185	2.78e-175	617	Eukaryota	Melicope pteleifolia mitochondrion, complete genome
+6	gi|1919570019|ref|NC_050882.1|	83.284	670	106	6	31	697	103185	103851	1.29e-173	612	Eukaryota	Melicope pteleifolia mitochondrion, complete genome
+7	gi|1314948901|ref|NC_035074.1|	78.883	412	82	5	32	439	617658	618068	4.39e-72	274	Eukaryota	Gossypium thurberi mitochondrion, complete genome
+9	gi|2127873389|ref|NC_058741.1|	79.177	413	78	7	31	438	99859	99450	9.41e-74	279	Eukaryota	Evolvulus alsinoides voucher KUBH9910 mitochondrion, complete genome
+11	gi|1919573496|ref|NC_050950.1|	80.145	413	76	5	31	439	620937	621347	5.60e-81	303	Eukaryota	Passiflora edulis mitochondrion, complete genome
+12	gi|1314948901|ref|NC_035074.1|	78.641	412	83	4	32	439	618068	617658	2.04e-70	268	Eukaryota	Gossypium thurberi mitochondrion, complete genome
+13	gi|1314948901|ref|NC_035074.1|	78.883	412	82	5	32	439	618068	617658	4.39e-72	274	Eukaryota	Gossypium thurberi mitochondrion, complete genome
+15	gi|1919573496|ref|NC_050950.1|	80.145	413	76	5	31	439	621347	620937	5.60e-81	303	Eukaryota	Passiflora edulis mitochondrion, complete genome
+17	gi|1028369727|ref|NC_030100.1|	88.172	93	11	0	31	123	312081	312173	1.21e-23	111	Eukaryota	Allium cepa mitochondrion, complete genome

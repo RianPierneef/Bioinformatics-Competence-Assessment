@@ -1,0 +1,6 @@
+V1 V2 V3 V4 V5 V6 V7 V8 V9 V10 V11 V12 V13 V14
+7 7 gi|1538979133|gb|MH113811.1| 100 408 0 0 32 439 71439 71032 0 754 Eukaryota Nitzschia palea chloroplast, complete genome
+11 11 gi|1831430715|gb|MN659374.1| 99.511 409 2 0 31 439 142640 142232 0 745 Eukaryota Uronema sp. FACHB-2429 chloroplast, complete genome
+12 12 gi|2088232843|ref|NC_056794.1| 100 408 0 0 32 439 86960 87367 0 754 Eukaryota Navicula veneta isolate SZCZR1826 chloroplast, complete genome
+13 13 gi|1538979133|gb|MH113811.1| 100 408 0 0 32 439 71032 71439 0 754 Eukaryota Nitzschia palea chloroplast, complete genome
+15 15 gi|1831430715|gb|MN659374.1| 99.511 409 2 0 31 439 142232 142640 0 745 Eukaryota Uronema sp. FACHB-2429 chloroplast, complete genome

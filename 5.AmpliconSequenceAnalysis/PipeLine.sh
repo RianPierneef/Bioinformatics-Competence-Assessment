@@ -35,5 +35,15 @@ awk '!a[$1]++' metagenomics.nt.txt > metagenomics.nt.TopHits.txt
 awk '!a[$1]++' metagenomics.mito.txt > metagenomics.mito.TopHits.txt
 
 blast.R
+
+#dada2 protocol
 dada2.R
+python asv2fasta.py > st2.fasta
+
+awk '!a[$1]++' st2.mito.txt > st2.mito.TopHits.txt
+awk '!a[$1]++' st2.nt.txt > st2.nt.TopHits.txt
+
+dada2.R
+
+
 

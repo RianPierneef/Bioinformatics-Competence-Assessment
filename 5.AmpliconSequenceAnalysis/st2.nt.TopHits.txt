@@ -1,0 +1,18 @@
+1	gi|1690455242|gb|CP021645.1|	82.688	878	136	13	27	894	3158478	3157607	0.0	765	Bacteria	Pseudomonas psychrotolerans strain CS51 chromosome, complete genome
+2	gi|1690455242|gb|CP021645.1|	82.688	878	136	13	30	897	3157607	3158478	0.0	765	Bacteria	Pseudomonas psychrotolerans strain CS51 chromosome, complete genome
+3	gi|1690455242|gb|CP021645.1|	82.688	878	136	13	30	897	3157607	3158478	0.0	765	Bacteria	Pseudomonas psychrotolerans strain CS51 chromosome, complete genome
+4	gi|386685926|gb|JQ612142.1|	98.351	667	11	0	28	694	723	57	0.0	1171	Bacteria	Uncultured cyanobacterium clone MSmat.3.13 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, tRNA-Ile and tRNA-Ala genes, complete sequence; and 23S ribosomal RNA gene, partial sequence
+5	gi|1690455242|gb|CP021645.1|	82.688	878	136	13	27	894	3158478	3157607	0.0	765	Bacteria	Pseudomonas psychrotolerans strain CS51 chromosome, complete genome
+6	gi|386685926|gb|JQ612142.1|	98.501	667	10	0	31	697	57	723	0.0	1177	Bacteria	Uncultured cyanobacterium clone MSmat.3.13 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, tRNA-Ile and tRNA-Ala genes, complete sequence; and 23S ribosomal RNA gene, partial sequence
+7	gi|1538979133|gb|MH113811.1|	100.000	408	0	0	32	439	71439	71032	0.0	754	Eukaryota	Nitzschia palea chloroplast, complete genome
+8	gi|1690455242|gb|CP021645.1|	82.802	878	135	13	30	897	3157607	3158478	0.0	771	Bacteria	Pseudomonas psychrotolerans strain CS51 chromosome, complete genome
+9	gi|1176024022|gb|KY915753.1|	100.000	367	0	0	51	417	367	1	0.0	678	N/A	Uncultured organism clone UniqueSequence1178 23S ribosomal RNA gene, partial sequence
+10	gi|1690455242|gb|CP021645.1|	82.688	878	136	13	30	897	3157607	3158478	0.0	765	Bacteria	Pseudomonas psychrotolerans strain CS51 chromosome, complete genome
+11	gi|1831430715|gb|MN659374.1|	99.511	409	2	0	31	439	142640	142232	0.0	745	Eukaryota	Uronema sp. FACHB-2429 chloroplast, complete genome
+12	gi|2088232843|ref|NC_056794.1|	100.000	408	0	0	32	439	86960	87367	0.0	754	Eukaryota	Navicula veneta isolate SZCZR1826 chloroplast, complete genome
+13	gi|1538979133|gb|MH113811.1|	100.000	408	0	0	32	439	71032	71439	0.0	754	Eukaryota	Nitzschia palea chloroplast, complete genome
+14	gi|1690455242|gb|CP021645.1|	82.688	878	136	13	30	897	3157607	3158478	0.0	765	Bacteria	Pseudomonas psychrotolerans strain CS51 chromosome, complete genome
+15	gi|1831430715|gb|MN659374.1|	99.511	409	2	0	31	439	142232	142640	0.0	745	Eukaryota	Uronema sp. FACHB-2429 chloroplast, complete genome
+16	gi|1690455242|gb|CP021645.1|	82.688	878	136	13	30	897	3157607	3158478	0.0	765	Bacteria	Pseudomonas psychrotolerans strain CS51 chromosome, complete genome
+17	gi|1245698638|gb|KX977127.1|	97.938	97	2	0	31	127	10	106	1.39e-37	169	Bacteria	Uncultured bacterium clone Neg_10 16S ribosomal RNA gene, partial sequence
+18	gi|1502090913|dbj|LC336358.1|	98.636	220	3	0	185	404	250	469	7.83e-104	390	Bacteria	Uncultured bacterium gene for 16S rRNA, partial sequence, clone: 12Jun10-168
