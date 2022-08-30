@@ -8,4 +8,5 @@ Running the script within the same folder as the hmm search.out file will print 
 Examples
 
 sh TopTen.sh
+
 sh TopTen.sh > hmmsearch.TopTen
