@@ -81,3 +81,8 @@ do
 done
 conda deactivate
 conda deactivate
+
+#KBase: https://www.kbase.us/
+Import from Staging Area
+Assess Genome Quality with CheckM - v1.0.18
+Classify Microbes with GTDB-Tk - v1.7.0
