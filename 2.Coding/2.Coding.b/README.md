@@ -10,9 +10,12 @@ Results for E-value cut-off 0.001, 0.01, 0.1, 1.0 and 10 are included here.
 
 Examples
 
-python Blaster.py 
+python Blaster.py
+
 Please enter the name/path of your file: NC_012920.1.fasta
+
 Please enter an e-value cut-off: 0.001
+
 Below are the top ten hits: 
 
                                                                    Score     E     Max
