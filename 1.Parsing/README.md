@@ -1,4 +1,4 @@
-1.	Parsing	
+1. Parsing	
 In the folder there is a fragment of an hmmsearch output file (hmmsearch.out). Parse the file using any method of your choice to generate a list of the top 10 hits with their descriptions and E-values, and provide the commands or code you used to do this. [10]
 
 The TopTen.sh script was used to complete this task.
