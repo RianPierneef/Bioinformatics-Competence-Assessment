@@ -43,4 +43,5 @@ write.table(t(st2), "st2.txt", quote = FALSE)
 #Run blast and filter for top hits
 st2.nt.TopHits <- read.delim("~/RePSkills/5.AmpliconSequenceAnalysis/st2.nt.TopHits.txt", header=FALSE)
 st2.nt.TopHits <- subset(st2.nt.TopHits, st2.nt.TopHits$V13!="Bacteria" & st2.nt.TopHits$V13!="N/A")
+write.table(st2.nt.TopHits, "st2.nt.TopHits.noBac.txt", quote = FALSE)
 
