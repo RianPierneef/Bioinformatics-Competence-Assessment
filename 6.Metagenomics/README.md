@@ -19,9 +19,10 @@ The script PipeLine.sh includes all code used to generate the results. In summar
 Specifications for High, Medium and Low Quality MAGs (Bowers et al., 2017):
 
 High: > 90% Completion and < 5% Contamination (CheckM.HighQual.txt and CheckM.HighQual.xlsx)
-Medium: >= 50% Completion and < 10% Contamination (CheckM.MediumQual.txt and CheckM.MediumQual.xlsx)
-Low: < 50% Completion and < 10% Contamination (CheckM.LowQual.txt and CheckM.LowQual.xlsx) 
 
+Medium: >= 50% Completion and < 10% Contamination (CheckM.MediumQual.txt and CheckM.MediumQual.xlsx)
+
+Low: < 50% Completion and < 10% Contamination (CheckM.LowQual.txt and CheckM.LowQual.xlsx) 
 
 Bowers, R.M., Kyrpides, N.C., Stepanauskas, R., Harmon-Smith, M., Doud, D., Reddy, T.B.K., Schulz, F., Jarett, J., Rivers, A.R., Eloe-Fadrosh, E.A. and Tringe, S.G., 2017. Minimum information about a single amplified genome (MISAG) and a metagenome-assembled genome (MIMAG) of bacteria and archaea. Nature biotechnology, 35(8), pp.725-731.
 
